@@ -1,6 +1,6 @@
 # packages
 
-![Alt text](https://cdn.activestate.com/wp-content/uploads/2020/04/python-list-packages.png"a title")
+![Alt text](https://cdn.activestate.com/wp-content/uploads/2020/04/python-list-packages.png "a title")
 
 
 
